@@ -1,0 +1,6 @@
+@FirmREST_HostAddress = http://localhost:5073
+
+GET {{FirmREST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

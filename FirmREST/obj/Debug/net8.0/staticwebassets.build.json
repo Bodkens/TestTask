@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8VJfpFNIXTu1yZnuU0tVDL5OugDEN4CwnjuvYwCIjgI=",
+  "Source": "FirmREST",
+  "BasePath": "_content/FirmREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

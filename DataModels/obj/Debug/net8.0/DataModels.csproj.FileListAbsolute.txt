@@ -1,0 +1,14 @@
+/Users/bohdanrieznikov/Test/DataModels/bin/Debug/net8.0/DataModels.deps.json
+/Users/bohdanrieznikov/Test/DataModels/bin/Debug/net8.0/DataModels.dll
+/Users/bohdanrieznikov/Test/DataModels/bin/Debug/net8.0/DataModels.pdb
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.csproj.AssemblyReference.cache
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.AssemblyInfoInputs.cache
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.AssemblyInfo.cs
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.csproj.CoreCompileInputs.cache
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.dll
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/refint/DataModels.dll
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.pdb
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/ref/DataModels.dll
+/Users/bohdanrieznikov/Test/DataModels/bin/Debug/net8.0/DataModels.runtimeconfig.json
+/Users/bohdanrieznikov/Test/DataModels/obj/Debug/net8.0/DataModels.genruntimeconfig.cache
