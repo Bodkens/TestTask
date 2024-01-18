@@ -162,7 +162,6 @@ root.MapGet("/projects/by_construction/{id}",
     .WithOpenApi();
 
 
-
 root.MapPost("/projects", async (Project project, FirmContext firmContext) =>
     {
         firmContext.Projects.Add(project);

@@ -65,3 +65,4 @@
 /Users/bohdanrieznikov/Test/FirmREST/bin/Debug/net8.0/FluentValidation.dll
 /Users/bohdanrieznikov/Test/FirmREST/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/bohdanrieznikov/Test/FirmREST/bin/Debug/net8.0/FluentValidation.AspNetCore.Http.dll
+/Users/bohdanrieznikov/Test/FirmREST/obj/Debug/net8.0/FirmREST.sourcelink.json

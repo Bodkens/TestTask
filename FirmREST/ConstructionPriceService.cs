@@ -13,6 +13,11 @@ public class ConstructionPriceService : IConstructionPriceService
         
     }
 
+    public void Test()
+    {
+        Console.WriteLine("Test branch");
+    }
+
     public ConstructionPriceService(FirmContext context)
     {
         this.context = context;
@@ -33,6 +38,8 @@ public class ConstructionPriceService : IConstructionPriceService
 
         return (construction.ExpectedPrice, (await projectsPrice).DefaultIfEmpty(0).Sum());
     }
+    
+     
 
     public int CompareExpectedAndProjectPrice(decimal expectedPrice, IList<decimal> projectsPrice)
     {
